@@ -12,6 +12,8 @@ This is a single-screen Flutter UI project built for submitting the Music Servic
 
 ## 📸 Screenshots are placed under the screenshot folder of this Repo
 
+## 📸 ScreenRecord is placed in the ScreenRecord folder of this Repo
+
 ## 🚀 Setup Instructions
 
 1. Clone the repo:
