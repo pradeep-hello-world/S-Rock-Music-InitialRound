@@ -1,16 +1,24 @@
-# s_rock_initial_round
+# 🎵 Music Services Module - Flutter App
 
-A new Flutter project.
+This is a single-screen Flutter UI project built for submitting the Music Services Module.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🎶 Given UI Implementation
+- ☁️ Integrated with Firebase Firestore
+- 🧭 Follows MVVM architecture using Provider
+- 🔄 Hot reload support
+- 📲 Works on Android devices
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots are placed under the screenshot folder of this Repo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/flutter-music-services-app.git
+   cd flutter-music-services-app
+
+2. Get Dependencies using ""flutter pub get""
+3. Connect Your Emulator or Device
+4. Use Command "flutter run" or use IDE manual run option
